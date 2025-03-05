@@ -1,0 +1,23 @@
+{
+  "name": "Trip-Planner",
+  "short_name": "Youtube Update",
+  "description": "Update",
+  "start_url": "https://script.google.com/macros/s/AKfycbwDHb00jal29qMuHWozLNpzQninL8XR9fTTCsbOzxnMydFpmKHIiCT6_mB7g7aRSlOd/exec",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://png.pngtree.com/element_our/sm/20180509/sm_5af2ba7c63e33.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://png.pngtree.com/element_our/sm/20180509/sm_5af2ba7c63e33.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
